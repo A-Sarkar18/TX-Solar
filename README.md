@@ -10,4 +10,10 @@ I use solar installation data from Solar Energy Industries Assosciation (SEIA) t
 ## Work Flow
 Since this project was my attempt to try new different techniques and packages accross langages, the work flow may be non-linear. This excersie follows these steps below:
 
-1. I use the geemap package within Python to qury values of PV
+1. Use the geemap package within Python to query values for mean Global Photovoltaic Power Potential (PVOUT) and export as csv.
+2. Import the csv from the step above for all Texas Counties into R to visualize the gradient of PV Power Potential
+3. Download SEIA Solar Facility data and use ggplot2 to map the size and locotion of all Texas Solar Utility-Scale facilities as geopoints layered on top of a shapefile of the state of Texas.
+
+## 1. Global Photovoltaic Power Potential (PVOUT)
+
+
