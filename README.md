@@ -20,3 +20,6 @@ Since this project was my attempt to try new different techniques and packages a
 ## 2. Global Photovoltaic Power Potential (PVOUT)
 ![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/Texas%20Solar%20Facility%20Total%20Rated%20Capacity.png)
 
+## Discussion
+
+
