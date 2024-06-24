@@ -21,6 +21,6 @@ Since this project was my attempt to try new different techniques and packages a
 ![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/Texas%20Solar%20Facility%20Total%20Rated%20Capacity.png)
 
 ## Discussion
-This excersise does not nessecarily reveal anything too exciting, but it was itneresting to note that as you look accross the map from East to West, at first glance, there does not seem to be a dramatic change in the average frequency of facilities, but in conjunction with the PVOUT map, we can see that West Texas facilities near the Permian Basin seem to have higher Solar Capacity facilities. This, of course makes intuitive sense as well, considering the darker shades of the PVOUT (kWh/kWp) gradient. 
+This excersise does not nessecarily reveal anything too exciting, but it was interesting to note that as you look accross the map from East to West, at first glance, there does not seem to be a dramatic change in the average frequency of facilities, but in conjunction with the PVOUT map, we can see that West Texas facilities near the Permian Basin seem to have higher Solar Capacity facilities. This, of course makes intuitive sense as well, considering the darker shades of the PVOUT (kWh/kWp) gradient. 
 
 
