@@ -18,5 +18,5 @@ Since this project was my attempt to try new different techniques and packages a
 ![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/%20Texas%20Daily%20Average%20PV%20Power%20Potential%201999%20-%202018.png)
 
 ## 2. Global Photovoltaic Power Potential (PVOUT)
-![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/%20Texas%20Daily%20Average%20PV%20Power%20Potential%201999%20-%202018.png)
+![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/Texas%20Solar%20Facility%20Total%20Rated%20Capacity.png)
 
