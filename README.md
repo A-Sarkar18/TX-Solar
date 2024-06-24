@@ -15,5 +15,5 @@ Since this project was my attempt to try new different techniques and packages a
 3. Download SEIA Solar Facility data and use ggplot2 to map the size and locotion of all Texas Solar Utility-Scale facilities as geopoints layered on top of a shapefile of the state of Texas.
 
 ## 1. Global Photovoltaic Power Potential (PVOUT)
-
+n
 
