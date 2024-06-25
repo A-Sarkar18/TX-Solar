@@ -14,10 +14,13 @@ Since this project was my attempt to try new different techniques and packages a
 2. Import the csv from the step above for all Texas Counties into R to visualize the gradient of PV Power Potential
 3. Download SEIA Solar Facility data and use ggplot2 to map the total rated capacity (MW) and locotion of all Texas Solar Utility-Scale facilities as geopoints layered on top of a shapefile of the state of Texas.
 
-## 1. Global Photovoltaic Power Potential (PVOUT)
-![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/%20Texas%20Daily%20Average%20PV%20Power%20Potential%201999%20-%202018.png)
+## 1. U.S. Solar Total Capacity by State
+![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/US%20Solar%20MW%20Capacity%20by%20State.png)
 
 ## 2. Global Photovoltaic Power Potential (PVOUT)
+![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/%20Texas%20Daily%20Average%20PV%20Power%20Potential%201999%20-%202018.png)
+
+## 3. Texas Installed Solar
 ![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/Texas%20Solar%20Facility%20Total%20Rated%20Capacity.png)
 
 ## Discussion
