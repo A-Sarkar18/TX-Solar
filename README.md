@@ -1,4 +1,4 @@
-# TX-Solar
+# Texas Solar
 TX Solar MW Capacity &amp; PV Potential
 
 ## Description
