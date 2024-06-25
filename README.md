@@ -23,6 +23,13 @@ Since this project was my attempt to try new different techniques and packages a
 ## Discussion
 This excersise does not nessecarily reveal anything too exciting, but it was interesting to note that as you look accross the map from East to West, at first glance, there does not seem to be a dramatic change in the average frequency of facilities, but in conjunction with the PVOUT map, we can see that West Texas facilities near the Permian Basin seem to have higher Solar Capacity facilities. This, of course makes intuitive sense as well, considering the darker shades of the PVOUT (kWh/kWp) gradient. 
 
+## Works Cited
+How Much Solar Power Is Generated in Texas?, BKV Energy, 14 May 2024, bkvenergy.com/learning-center/how-much-solar-power-is-generated-in- 
+   texas/. 
+Babatunde, Ayanlowo. Estimating the Energy Potential of Any Country Using Gee, Geemap, Python Geopandas, Folium (New), Medium, 18 July 2022, 
+    ayanmiayan2010.medium.com/estimating-the-energy-potential-of-any-country-using-gee-geemap-python-geopandas-fe0da1965ef8. 
+
+
 
 
 
